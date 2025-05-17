@@ -1,11 +1,12 @@
 # Scikit-Learn House Prices Prediction
-HACKATHON with @Stasya : Kaggle Competition in AI Programming Course in MaAI - Master of AI for Architecture and the built environment in IAAC
 
-Ames-Housing-Kaggle
+**Goal:** The goal is simple: build a predictive model that accurately estimates home sale prices in Ames, Iowa by uncovering hidden patterns in the dataset. You'll need to analyze all 79 features—from obvious factors like square footage to subtle influences like neighborhood zoning—and engineer the best approach to beat the competition. The most accurate predictions win.
+
+**Dataset:** Ames Housing dataset (train.csv). Contains 79 explanatory features describing residential homes and the target variable Sale Price.
 
 Predict sale prices of Ames, Iowa homes with scikit-learn pipelines, feature engineering, and RMSLE-optimized models.
 
-This repository contains all notebooks, source modules, datasets and artefacts used for the course and Kaggle competition.
+This repository contains all notebooks, source modules, and artefacts used for the course and Kaggle competition.
 
 # 📂 Folder Structure
 
