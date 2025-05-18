@@ -15,6 +15,7 @@ This repository contains all notebooks, source modules, and artefacts used for t
     ├── src/ # Re-usable Python modules (loaders, transformers, models)
     ├── reports/ # Generated figures, tables, and submission files
     └── README.md
+![ChatGPT Image May 18, 2025, 11_34_55 AM](https://github.com/user-attachments/assets/3785c7a6-f944-436c-aefd-4ab3ecbddf5c)
 
 # 🙋‍♀️ Contact
 
